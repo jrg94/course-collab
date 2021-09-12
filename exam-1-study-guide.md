@@ -239,7 +239,7 @@ TBD
 
 **Where should you use a static method?**
 
-TBD
+A static method should be used where object information does not matter. If a method will always give the same outputs for given input parameters, it should be a static method.
 
 **What is the difference between a public and private method?**
 
